@@ -20,3 +20,5 @@ Weimo Zhu
 
 - PyTorch Neural Style Transfer Tutorial
 https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
+- Chikorde, “From Content & Art: Introduction to Neural Style Transfer using …”, LinkedIn Pulse
+https://www.linkedin.com/pulse/from-content-art-introduction-neural-style-transfer-using-chikorde/
