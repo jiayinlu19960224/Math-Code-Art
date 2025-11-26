@@ -12,9 +12,16 @@ Shanmei Wanyan
 
 ## Demos
 
-Reference image: examples/target.png
-Audio: examples/audio3.wav
-Full video: examples/audio3_final.mp4
+**Reference image:**  
+![Reference image](examples/target.png)
+
+**Audio:**  
+[audio3.wav](examples/audio3.wav)
+
+**Full video:**  
+[audio3_final.mp4](examples/audio3_final.mp4)
+
+
 
 ## References
 
