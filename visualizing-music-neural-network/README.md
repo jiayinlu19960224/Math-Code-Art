@@ -19,7 +19,8 @@ Shanmei Wanyan
 [audio3.wav](examples/audio3.wav)
 
 **Full video:**  
-[audio3_final.mp4](examples/audio3_final.mp4)
+https://github.com/jiayinlu19960224/Math-Code-Art/raw/refs/heads/main/visualizing-music-neural-network/examples/audio3_final.mp4
+
 
 
 
