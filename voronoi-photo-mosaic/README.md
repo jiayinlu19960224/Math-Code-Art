@@ -2,8 +2,7 @@
 
 ## Brief Description
 
-This tutorial demonstrates how Voronoi diagrams can be used to create photo mosaics from images.  
-Given an input image, we sample points across the image, compute a Voronoi tessellation, and color each Voronoi cell using the average color of the underlying image region. The result is a geometric reconstruction of the original image that preserves large-scale structure while introducing a stylized, polygonal appearance. This technique connects computational geometry with image processing and visual design.
+This tutorial demonstrates how Voronoi diagrams can be used to create photo mosaics from images. Given an input image, we sample points across the image, compute a Voronoi tessellation, and color each Voronoi cell using the average color of the underlying image region. The result is a geometric reconstruction of the original image that preserves large-scale structure while introducing a stylized, polygonal appearance. This technique connects computational geometry with image processing and visual design.
 
 ## Tutorial Lead
 
