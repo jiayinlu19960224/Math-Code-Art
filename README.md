@@ -18,6 +18,7 @@ An interdisciplinary exploration at the intersection of mathematics, programming
 
 **Co-Faculty Advisors:**
 - Dr. Ying Jiang
+- Prof. Chenfanfu Jiang
 - Prof. Michael Andrews
 
 ## Topics & Modules
