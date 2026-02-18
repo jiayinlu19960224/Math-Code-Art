@@ -21,6 +21,7 @@ An interdisciplinary exploration at the intersection of mathematics, programming
 **Co-Faculty Advisors:**
 - Dr. Jiayin Lu
 - Dr. Ying Jiang
+- Dr. Yue Sun
 - Prof. Chenfanfu Jiang
 - Prof. Michael Andrews
 
