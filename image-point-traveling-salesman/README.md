@@ -45,7 +45,7 @@ Then download a SAM checkpoint file, for example `sam_vit_h_4b8939.pth`.
 LKH-3:
 
 1. Download or build the LKH-3 solver executable.
-2. Put `LKH-3.exe` in the same directory as `LKH-3_SAM_colored_connected_parallel.py`, or pass it with `--lkh_exe`, or set the environment variable `LKH_EXE`.
+2. Put `LKH-3.exe` in the same directory as `LKH-3_SAM_demo.ipynb`, or pass it with `--lkh_exe`, or set the environment variable `LKH_EXE`.
 
 ## Typical Run
 ```bash
