@@ -65,7 +65,7 @@ python LKH-3_SAM_colored_connected_parallel.py ^
 ```
 
 ## Full Program Flow
-The actual pipeline of `LKH-3_SAM_colored_connected_parallel.py` is:
+The actual pipeline of `LKH-3_SAM_demo.ipynb` is:
 
 1. Parse command-line arguments and build an `ExperimentConfig`.
 2. Create an output run directory and save the current config for reproducibility.
