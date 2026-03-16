@@ -1,9 +1,9 @@
 # Image Point Traveling Salesman
 
 ## Brief Description
-This project generates single-line and colored drawings from images using large-scale Euclidean Traveling Salesman Problem (TSP) optimization.
+This project generates single-line and colored drawings from images using large-scale Euclidean Traveling Salesman Problem (TSP) optimization, based on the TSP art technique pioneered by [Bosch & Herman (2004)](https://www.sciencedirect.com/science/article/abs/pii/S0167637703001275) and [Kaplan & Bosch (2005)](https://archive.bridgesmathart.org/2005/bridges2005-301.pdf).
 
-An input image is converted into a set of 2D points via density-driven sampling and dithering.
+An input image is converted into a set of 2D points via density-driven sampling and [Floyd-Steinberg dithering](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering).
 The resulting point set is then optimized using the LKH-3 heuristic solver to produce a continuous Hamiltonian tour, which is rendered as a single-line drawing.
 
 The system focuses on large-scale artistic TSP instances and emphasizes:
@@ -96,12 +96,17 @@ Typical contents:
 - `line_drawing_layers.png`: final rendered colored TSP artwork
 
 ## References
-Helsgaun, K. (LKH-3), state-of-the-art Lin-Kernighan heuristic solver
 
-Applegate et al., Concorde TSP Solver
+### TSP Art Methodology
+- **[Procedure]** Robert Bosch and Adrianne Herman, [Continuous Line Drawings via the Traveling Salesman Problem](https://www.sciencedirect.com/science/article/abs/pii/S0167637703001275), *Operations Research Letters*, 2004, Volume 32, pages 302-303.
+- **[Point Placements]** Craig Kaplan and Robert Bosch, [TSP Art](https://archive.bridgesmathart.org/2005/bridges2005-301.pdf), *Renaissance Banff: Bridges 2005: Mathematical Connections in Art, Music and Science*, pages 301-308.
 
-Google OR-Tools Routing Library
+### TSP Solvers
+- **[TSP Software: Concorde]** https://www.math.uwaterloo.ca/tsp/concorde/
+- Helsgaun, K. (LKH-3), state-of-the-art Lin-Kernighan heuristic solver
+- Applegate et al., Concorde TSP Solver
+- Google OR-Tools Routing Library
 
-Floyd-Steinberg Dithering
-
-Meta AI, Segment Anything Model (SAM)
+### Image Processing
+- **[Floyd-Steinberg Dithering]** https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering
+- Meta AI, Segment Anything Model (SAM)

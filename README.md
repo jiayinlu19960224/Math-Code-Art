@@ -37,7 +37,7 @@ Each topic has its own directory with documentation, code, and demos:
 - **[Voronoi Photo Mosaic](./voronoi-photo-mosaic/)** - Voronoi-based photo mosaic art
 - **[Style Transfer Voronoi Mosaic](./style-transfer-voronoi-mosaic)** - Style transfer effect on Voronoi mosaic art
 - **[Photo Collage](./photo-collage/)** - Algorithmic adaptive image collages
-- **[Image Point Traveling Salesman](./image-point-traveling-salesman/)** - Using TSP algorithms to create artistic line drawings from images
+- **[Image Point Traveling Salesman](./image-point-traveling-salesman/)** - Using TSP algorithms to create artistic line drawings from images (based on [Bosch & Herman, 2004](https://www.sciencedirect.com/science/article/abs/pii/S0167637703001275) and [Kaplan & Bosch, 2005](https://archive.bridgesmathart.org/2005/bridges2005-301.pdf))
 
 Additional planned topics:
 - 3D mathematical modeling and printing
