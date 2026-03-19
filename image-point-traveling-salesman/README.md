@@ -19,6 +19,9 @@ The goal is not merely to solve TSP, but to study how sampling design and solver
 ## Tutorial Lead
 Dengyuhan Dai
 
+## Advisors
+Dr. Jiayin Lu, Prof. Henry Segerman
+
 ## Demos
 <img width="1000" height="1000" alt="girl_line_drawing1 2" src="https://github.com/user-attachments/assets/eec8228d-74d7-45ea-a923-db622e9d080f" />
 <img width="1000" height="1000" alt="Hamuko_line_drawing_0 7" src="https://github.com/user-attachments/assets/e0690a6f-06c9-42f7-a79c-80595e91fad9" />
